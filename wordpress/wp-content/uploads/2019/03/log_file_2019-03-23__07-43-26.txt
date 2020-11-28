@@ -1,0 +1,57 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://10.10.45.104/arzot-demo
+Data file = C:\xampp\htdocs\arzot-demo/wp-content/uploads/2019/03/demo.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "vCard" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "vCard" (Media)
+[WARNING] Failed to import "Jhone Rosy": Invalid post type testimonials
+[WARNING] Failed to import "Jhone Doe": Invalid post type testimonials
+[WARNING] Failed to import "Jhone Kary": Invalid post type testimonials
+

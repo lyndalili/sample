@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Standard Page Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/online-cv-resume-pro/inc/demo-data/demo-standard.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/online-cv-resume-pro/inc/demo-data/standard.wie
+Customizer file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/online-cv-resume-pro/inc/demo-data/standard.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Rechercher - No Title - Widget already exists
+Articles récents - No Title - Widget already exists
+Commentaires récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+
+Home Page hero Section : 
+
+Online CV Resume Pro Widgets - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
